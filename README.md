@@ -1,10 +1,10 @@
-# 2021-12-24 Class Playground
+# 2021-12-14 Class Playground
 
 ## Connecting to the Class Repository
 
 1. Find a good spot on your computer, open Git Bash there, and clone the repository to your computer (you may need to log in)
 ```
-git clone https://github.com/natafaye/2021-12-24-playground.git
+git clone https://github.com/natafaye/2021-12-14-playground.git
 ```
 
 2. Open the repository folder in VS Code
