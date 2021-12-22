@@ -12,4 +12,4 @@ console.log(fullName + ' is a fan of the ' + favoriteNFLTeam);
 
 let touchdownPasses = 442;
 
-console.log('Aaron Rodgers has thrown ' + touchdownPasses + ' touchdowns');
+console.log('Aaron Rodgers has thrown ' + touchdownPasses + ' touchdowns, but sadly none were to ' + fullName);
